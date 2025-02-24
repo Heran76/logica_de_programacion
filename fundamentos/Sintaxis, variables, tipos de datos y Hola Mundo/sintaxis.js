@@ -1,0 +1,1 @@
+//variables, tipos de datos y hola mundo
